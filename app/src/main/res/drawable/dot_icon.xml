@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- 背景（必要に応じて削除可能） -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M0,0h200v200h-200z" />
+
+    <!-- 9つの円のグリッド -->
+    <!-- 1行目 -->
+    <path
+        android:fillColor="#444444"
+        android:pathData="M65,65m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#444444"
+        android:pathData="M100,65m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#444444"
+        android:pathData="M135,65m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+
+    <!-- 2行目 -->
+    <path
+        android:fillColor="#444444"
+        android:pathData="M65,100m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#444444"
+        android:pathData="M100,100m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#444444"
+        android:pathData="M135,100m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+
+    <!-- 3行目 -->
+    <path
+        android:fillColor="#444444"
+        android:pathData="M65,135m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#444444"
+        android:pathData="M100,135m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#444444"
+        android:pathData="M135,135m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+</vector>
